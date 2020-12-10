@@ -1,5 +1,5 @@
 # FE595HW4
-**This is FE595 HW 4 : SKLearn **
+**This is FE595 HW 4 : SKLearn**
   
 For part 1:   
 hw4.py  
