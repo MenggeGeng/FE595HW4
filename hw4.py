@@ -32,9 +32,6 @@ Y = data['target']
 print(X.shape)
 print(Y.shape)
 
-#data segmentation
-#X_train, X_test, Y_train, Y_test = train_test_split(X,Y,test_size=0.5, random_state= 1)
-
 #build regression model
 reg_model = LinearRegression()
 reg_model.fit(X,Y)
