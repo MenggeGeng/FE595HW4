@@ -8,7 +8,7 @@ hw4.py
 --Build linear regression model;  
 --Display the coefficient.    
      
-For part 2:
+For part 2:  
 hw4_2.py    
 --Load Iris and Wine dataset;  
 --Using a range of K build KMeans model;  
