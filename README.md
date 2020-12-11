@@ -9,8 +9,8 @@ hw4.py
 --Display the coefficient.    
      
 For part 2:
-hw4_2.py   
---Load Iris and Wine dataset;
---Using a range of K build KMeans model;
---Plot the inertia of each dataset;
---Using the decent rate to validate the number of K.
+hw4_2.py    
+--Load Iris and Wine dataset;  
+--Using a range of K build KMeans model;  
+--Plot the inertia of each dataset;  
+--Using the decent rate to validate the number of K.  
